@@ -8,7 +8,7 @@ public class DivideScript : MonoBehaviour
     public static class Divisors
     {
 
-        public static int[] GetDivisorsMe(int n)
+        public static int[] GetDivisors(int n)
         {
             if (n <= 0)
             {
